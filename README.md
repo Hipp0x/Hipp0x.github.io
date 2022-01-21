@@ -1,6 +1,6 @@
-# MD5-Processing
+# MD5 Processing
 
-Page d'hébergement du code dans le cadre du projet de l'UE "Mathématiques Discrètes" du premier semestre de L3 Informatique à l'Université de Paris.
+Page d'hébergement du code pour le projet de l'UE "Mathématiques Discrètes" (MD5) du premier semestre de L3 Informatique à l'Université de Paris.
 
 Sujet : Treemap </br>
-Implémentation en JS de l'algorithme Ordered Treemap.
+Implémentation l'algorithme Ordered Treemap.
